@@ -1,0 +1,2 @@
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.WebClient\obj\Debug\EtfDashboard.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.WebClient\obj\Debug\EtfDashboard.WebClient.csprojResolveAssemblyReference.cache

@@ -1,0 +1,54 @@
+﻿<div class="container-fluid container-login">
+    <div class="row">
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-4 col-xl-4">
+        </div>
+
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-4 col-xl-4">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-4 col-xl-4">
+        </div>
+        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 main-column">
+
+            <div class="card card-outter login-card">
+                <div class="card-header text-white text-center">
+                    <i class="fa fa-user" aria-hidden="true" *ngIf="newApplicationUser.id">Edit user ></i>
+                    <i class="fa fa-user" aria-hidden="true" *ngIf="!newApplicationUser.id">Add user</i>
+
+                </div>
+                <div class="card-block login-block">
+                    <form id="myRegisterForm" #registerForm="ngForm" (submit)="register()" autocomplete="off">
+                        <div class="form-group">
+                            <label for="FirstName">First name</label>
+                            <input type="text" id="FirstName" #FirstName="ngModel" [(ngModel)]="newApplicationUser.firstName" class="form-control" name="FirstName" placeholder="FirstName" required>
+                            <label for="LastName">Last name</label>
+                            <input type="text" id="LastName" #LastName="ngModel" [(ngModel)]="newApplicationUser.lastName" class="form-control" name="LastName" placeholder="LastName" required>
+                            <label for="Email">Email</label>
+                            <input type="text" id="Email" #email="ngModel" [(ngModel)]="newApplicationUser.email" class="form-control" name="Email" placeholder="Email" required>
+                            <label for="Username">Username</label>
+                            <input type="text" id="Username" #Username="ngModel" [(ngModel)]="newApplicationUser.userName" class="form-control" name="Username" placeholder="UserName" required>
+                            <div *ngIf="!newApplicationUser.id">
+                                <label for="Password">Set a new password</label>
+                                <input type="password" id="Password" #Password="ngModel" [(ngModel)]="password" class="form-control" name="Password" placeholder="Password" required>
+                                <label for="Password">Confirm password</label>
+                                <input type="password" id="confirmPassword" #confirmPassword="ngModel" [(ngModel)]="passwordConfirm" class="form-control" name="confirmPassword" placeholder="Password" required>
+                            </div>
+                        </div>
+                        <div class="login-button">
+                            <div *ngIf="!newApplicationUser.id">
+                                <button type="submit" [disabled]="!registerForm.form.valid" class="btn btn-primary btn-md btn-block clickable">Register</button>
+                            </div>
+                        </div>
+                    </form>
+                    <div *ngIf="newApplicationUser.id">
+                        <button (click)="edit()">Save Changes</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-3 col-sm-3 col-md-3 col-lg-4 col-xl-4">
+        </div>
+    </div>
+</div>

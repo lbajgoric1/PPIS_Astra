@@ -1,0 +1,525 @@
+/* ========================================= shared classes ===================================================== */
+
+html, body {
+    min-height: 100%;
+    height: 100%;
+    background-color: #dddfd4;
+}
+
+.container-menu {
+   padding: 0;
+}
+
+.container-content {
+    padding-bottom: 3%;
+}
+
+.container-login {
+    min-height: 100%;
+    height: 100%;
+    width: 100%;
+	background-size: cover;
+    padding-bottom: 3%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left {
+    float: left;
+}
+
+.vertical-align {
+    vertical-align: middle;
+    line-height: normal;
+}
+
+.left-margin {
+    margin-left: 10px;
+}
+
+.top-margin {
+    margin-top: 5px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.text-black {
+    color: black;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.subscription-button {
+    width: 150px;
+}
+
+.clickable:hover {
+    cursor: pointer;
+}
+
+.up-row {
+    margin-bottom: -8px;
+    padding-bottom: -8px;
+}
+
+.mark-all {
+    margin-bottom: 15px;
+}
+
+
+
+/* =========================================== log in ========================================================= */ 
+
+.login-title {
+    margin-top: 25%;
+    margin-bottom: 5%;
+    font-family: 'Roboto Slab', serif;
+	font-weight: 300;
+	font-size: 3.2em;
+	color: white;
+	text-shadow: 0 0 10px rgba(0,0,0,0.8);
+}
+
+.login-block {
+    color: #0f0e0e;
+}
+
+.login-button {
+    text-align: center;
+}
+
+.main-column {
+    text-align: center;
+}
+
+.login-card {
+    display: inline-block;
+}
+
+.right {
+    margin-right: 20px;
+}
+
+
+/* ================================================= navigation ===================================================*/
+
+.navbar {
+    background-color: #252839;
+    color: white;
+    text-align: center;
+}
+
+.navbar-nav {
+    float: none;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+.navbar-nav > li {
+    display: inline-block;
+    float: none;
+    padding: 0 5px;
+    margin: 0 5px;
+    font-weight: bold;
+}
+
+.navbar-nav > li > a {
+    margin-bottom: 0;
+    padding-bottom: 1px;
+}
+
+.navbar-brand {
+    margin: 0;
+    padding: 0;
+    font-size: 18pt;
+}
+
+.button-logout {
+    border: solid 1px transparent;
+    color: white;
+}
+
+.button-logout:hover {
+    background-color: #252839;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+}
+
+
+.active:hover {
+    border-bottom: solid 1px white;
+}
+
+.selected {
+    border-bottom: solid 1px white;
+    
+}
+
+
+/* ================================================================= cards ============================================================= */
+
+.card-outter {
+    width: 100%;
+    color: black;
+    box-shadow: 5px 5px 2px #888888;
+    border-style: none;
+    margin-top: 3%;
+   
+}
+
+.card-header {
+    background-color: #4f565c;
+    font-weight: bold;
+}
+
+
+.card {
+    text-align: center;
+    padding: 0;
+}
+
+.bottom-card {  
+    text-align: center;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    border-style: none;
+}
+
+/* ======================================================================== tasks ========================================================= */
+
+.other-info {
+    float: left;
+    font-size: 18pt;
+    color:#67625b;
+}
+
+.task-dates {
+    display: inline;
+}
+
+.task-start-date {
+    float: left;
+    margin: 5px 10px;
+}
+
+.task-due-date {
+    float: right;
+    margin: 5px 10px;
+}
+
+.task {
+    margin-bottom: 2%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #4286f4;
+    padding: 1%;
+}
+
+.task-basic-info {
+    display: inline;
+    margin-top: 0;
+    margin-bottom: 0;
+    vertical-align: middle;
+    white-space: normal;
+}
+
+.description {
+    min-height: 8%;
+    background-color: #ced5dd;
+    overflow:hidden;
+}
+
+.task-name {
+    float: left;
+    font-size: 18pt;
+}
+
+.owner-label {
+    float: left;
+    font-size: 14pt;
+}
+
+.description-label {
+    float: left;
+    font-size: 14pt;
+}
+
+.owner {
+    margin-top: -2%;
+}
+
+.save-button {
+    margin-top: -1%;
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-bottom: 5%;
+}
+
+.back-button {
+    float: left;
+   
+}
+
+.task-priority {
+    height: 30px;
+    width: 90px;
+    margin-top: 0.5%;
+}
+
+.task-details-button {
+    float: right;
+    margin-right: 2%;
+}
+
+.select {
+    height: 38px;
+    padding: 0px 8px;
+}
+
+.not-found {
+    font-style: italic;
+    margin-bottom: 1%;
+    padding: 0;
+    font-size: 14pt;
+}
+
+.input-search {
+    margin-bottom: 2%;
+}
+
+.unseen {
+    background-color: #d1e1fc;
+}
+
+.user-stats {
+    font-size: 16pt;
+    margin-bottom: 2%;
+    color: #0f0e0e;
+}
+
+.filter-element {
+   margin-right: 2%;
+   margin-left: 2%;
+}
+
+.filter-row {
+    margin-bottom: 2%;
+}
+
+.tasks-stats {
+    font-size: 20pt;
+    padding: 10% 0;
+    border-radius: 10px;
+    border: 3px solid white;
+} 
+
+#finished-tasks {
+    border-color: #5cb85c;
+}
+
+#late-tasks {
+    border-color: #d9534f;
+}
+
+#tasks-in-progress {
+    border-color: #428bca;
+}
+
+#success-rate {
+    border-color: black;
+}
+
+/* ========================================================= Commetns ================================================================================ */
+
+
+.comments-card {
+    text-align: left;
+}
+
+.comment {
+    background-color: #ced5dd;
+    padding: 8px;
+}
+
+.user-image {
+    width: 64px;
+    height: 64px;
+}
+
+.reply-button {
+    float: right;
+}
+
+.reply-button:hover {
+    cursor: pointer;
+}
+
+.add-initiative {
+    margin-top: -3%;
+    margin-bottom: 7%;
+}
+
+/* =========================================================== late tasks ========================================================================= */
+
+.late {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d62525;
+    color: red;
+}
+
+/* ============================================================ warning tasks ======================================================================= */
+
+.warning {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #c16c16;
+}
+
+.comment-add {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.filter {
+    width: 100%;
+    display: inline-block;
+    font-size: 14pt;
+    text-align: center;
+}
+
+
+#searchButton{
+    margin-left:45%;
+}
+
+.filterTable {
+    width: 100%;
+}
+
+#filters {
+    margin-left: 20%;
+}
+
+.inline {
+    float: left;
+    margin-right: 2%;
+    margin-bottom: 3%;
+
+}
+
+/* ================================================================ Pegination =================================================================*/
+
+.peginaton ul li:hover {
+    cursor: pointer;
+}
+
+.peginaton ul {
+    margin-bottom: -24px;
+    padding: 0;
+}
+
+.selected-page {
+    background-color: #428bca;
+    color: white;
+}
+
+.selected-page:hover {
+    background-color: #428bca;
+    color: white;
+    cursor: default;
+}
+
+/* ================================================================== Media ========================================================================== */
+@media (max-width: 575px) {
+    .login-card {
+        min-width: 200px;
+        width: 250px;
+    }
+
+    .navbar-nav > li {
+        display: inline;
+        padding: 0;
+        margin: 0;
+    }
+}
+
+@media (min-width: 576px) {
+    .login-card {
+        width: 400px;
+    }
+}
+
+@media (min-width: 768px) {
+    .login-card {
+        width: 400px;
+    }
+}
+
+@media (min-width: 992px) {
+    .login-card {
+        width: 400px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .login-card {
+        width: 400px;
+    }
+}
+
+.cd-tab-filter-wrapper {
+  background-color: #ffffff;
+  z-index: 1;
+}
+ 
+.cd-filter {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 280px;
+  height: 100%;
+  background: #ffffff;
+  z-index: 2;
+  transform: translateX(-100%);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+ 
+.cd-filter-trigger {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 50px;
+  width: 60px;
+  z-index: 3;
+}
+ 
+.cd-main-content.is-fixed .cd-tab-filter-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+ 
+.cd-main-content.is-fixed .cd-filter {
+  position: fixed;
+  height: 100vh;
+  overflow: hidden;
+}
+ 
+.cd-main-content.is-fixed .cd-filter-trigger {
+  position: fixed;
+}
