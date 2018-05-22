@@ -1,0 +1,72 @@
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.Common.dll.config
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.Common.dll
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.Common.pdb
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\EntityFramework.dll
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.DomainModel.dll
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.DTO.dll
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.DomainModel.pdb
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.DTO.pdb
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\EntityFramework.xml
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\obj\Debug\EtfDashboard.Common.csprojResolveAssemblyReference.cache
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\obj\Debug\EtfDashboard.Common.dll
+C:\Users\almed_000\Desktop\Oracle i baze podataka\Almo\ETFDashboard\EtfDashboard.Common\obj\Debug\EtfDashboard.Common.pdb
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.Common.dll.config
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.Common.dll
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.Common.pdb
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\EntityFramework.dll
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.DomainModel.dll
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.DTO.dll
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.DomainModel.pdb
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\EtfDashboard.DTO.pdb
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\EntityFramework.xml
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\obj\Debug\EtfDashboard.Common.csprojResolveAssemblyReference.cache
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\obj\Debug\EtfDashboard.Common.dll
+C:\Users\almed_000\Documents\GitHub\ETFDashboard\EtfDashboard.Common\obj\Debug\EtfDashboard.Common.pdb
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.Common.dll.config
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.Common.dll
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.Common.pdb
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EntityFramework.dll
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.DomainModel.dll
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.DTO.dll
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.DomainModel.pdb
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.DTO.pdb
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EntityFramework.xml
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\obj\Debug\EtfDashboard.Common.csprojResolveAssemblyReference.cache
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\obj\Debug\EtfDashboard.Common.dll
+C:\Users\840\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\obj\Debug\EtfDashboard.Common.pdb
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.Common.dll.config
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.Common.dll
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.Common.pdb
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EntityFramework.dll
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.DomainModel.dll
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.DTO.dll
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.DomainModel.pdb
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EtfDashboard.DTO.pdb
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EntityFramework.xml
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\obj\Debug\EtfDashboard.Common.csprojResolveAssemblyReference.cache
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\obj\Debug\EtfDashboard.Common.dll
+C:\Users\Lejla\Desktop\ETFDashboard-master\ETFDashboard-master\EtfDashboard.Common\obj\Debug\EtfDashboard.Common.pdb

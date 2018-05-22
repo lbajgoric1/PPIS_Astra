@@ -1,0 +1,33 @@
+﻿
+
+<div class="container-fluid container-menu">
+    <nav *ngIf="showMenu" class="navbar navbar-toggleable-md navbar-inverse">
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <a class="navbar-brand" href="#">ETF HR Management Dashboard</a>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+            <ul class="navbar-nav mr-auto">
+                <li *ngIf="isAdmin" [routerLinkActive]="['selected']" class="nav-item active">
+                    <a  class="nav-link">Users</a>
+                </li>
+                <li [routerLinkActive]="['selected']" class="nav-item active">
+                    <a  [routerLinkActive]="['selected']" class="nav-link">Departments</a>
+                </li>
+                <li *ngIf="isAdmin" [routerLinkActive]="['selected']" class="nav-item active">
+                    <a  class="nav-link">Requests</a>
+                </li>
+
+            </ul>
+            <div *ngIf="userName">
+                <a (click)="goToDetails()" class="navbar-brand" style="margin-left:-55px !important">{{userName}}</a>
+            </div>
+            <button class="btn btn-outline-primary button-logout clickable" type="submit" (click)="logout()">LOG OUT</button>
+        </div>
+    </nav>
+</div>
+
+
